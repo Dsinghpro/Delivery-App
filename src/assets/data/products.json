@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "name": "Apple",
+    "image": "https://via.placeholder.com/70x70.png?text=Apple",
+    "price": 80,
+    "category": "Fruits"
+  },
+  {
+    "id": "2",
+    "name": "Banana",
+    "image": "https://via.placeholder.com/70x70.png?text=Banana",
+    "price": 40,
+    "category": "Fruits"
+  },
+  {
+    "id": "3",
+    "name": "Tomato",
+    "image": "https://via.placeholder.com/70x70.png?text=Tomato",
+    "price": 30,
+    "category": "Vegetables"
+  },
+  {
+    "id": "4",
+    "name": "Potato",
+    "image": "https://via.placeholder.com/70x70.png?text=Potato",
+    "price": 25,
+    "category": "Vegetables"
+  },
+  {
+    "id": "5",
+    "name": "Rice",
+    "image": "https://via.placeholder.com/70x70.png?text=Rice",
+    "price": 60,
+    "category": "Grains"
+  },
+  {
+    "id": "6",
+    "name": "Wheat Flour",
+    "image": "https://via.placeholder.com/70x70.png?text=Wheat+Flour",
+    "price": 50,
+    "category": "Grains"
+  },
+  {
+    "id": "7",
+    "name": "Sunflower Oil",
+    "image": "https://via.placeholder.com/70x70.png?text=Sunflower+Oil",
+    "price": 120,
+    "category": "Oils"
+  },
+  {
+    "id": "8",
+    "name": "Mustard Oil",
+    "image": "https://via.placeholder.com/70x70.png?text=Mustard+Oil",
+    "price": 110,
+    "category": "Oils"
+  }
+] 
